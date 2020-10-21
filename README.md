@@ -3,3 +3,4 @@
 [Видеолекции](https://www.youtube.com/playlist?list=PLrCZzMib1e9qq4fABTTgA5XPB-N1aahIV)
    
 ### Hometasks:
+   1. knn
