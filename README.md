@@ -4,3 +4,4 @@
    
 ### Hometasks:
 1. knn
+2. sgd
