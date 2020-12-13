@@ -5,3 +5,4 @@
 ### Hometasks:
 1. knn
 2. sgd
+3. decision tree
